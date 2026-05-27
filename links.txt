@@ -1,0 +1,12 @@
+https://github.com/back1ply/SAP-Scripting-tracker
+C:\Users\cs\AppData\Local\Python\pythoncore-3.14-64\Scripts
+
+py -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+
+Ctrl+Shift+P -> Create environment
+
+rfbrowser init
+
+https://frankvanderkuur.github.io/SapGuiLibrary.html
