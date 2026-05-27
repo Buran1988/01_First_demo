@@ -1,0 +1,7 @@
+robotframework
+robotframework-tidy
+robotframework-browsersourc
+robotframework-sapguilibrary
+robotframework-robosapiens
+robotframework-debug
+robotcode-repl

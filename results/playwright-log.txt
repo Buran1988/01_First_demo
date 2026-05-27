@@ -1,0 +1,26 @@
+{"level":"info","time":"2026-05-26T08:59:23.168Z","seq":1,"component":"browser-library","msg":"Listening on 127.0.0.1:57824"}
+{"level":"info","time":"2026-05-26T08:59:23.341Z","seq":2,"component":"browser-library","event_kind":"grpc","action":"newPage","status":"started"}
+{"level":"info","time":"2026-05-26T08:59:23.341Z","seq":3,"component":"browser-library","msg":"No active browser, creating a new one"}
+{"level":"info","time":"2026-05-26T08:59:28.251Z","seq":4,"component":"browser-library","msg":"Setting default timeout for context context=3338453f-e89b-4747-afd9-a2e2559be525 to 10000"}
+{"level":"info","time":"2026-05-26T08:59:28.252Z","seq":5,"component":"browser-library","msg":"Changed active context: context=3338453f-e89b-4747-afd9-a2e2559be525"}
+{"level":"info","time":"2026-05-26T08:59:28.326Z","seq":6,"component":"browser-library","msg":"Video path: undefined"}
+{"level":"info","time":"2026-05-26T08:59:28.326Z","seq":7,"component":"browser-library","msg":"Changed active page"}
+{"level":"info","time":"2026-05-26T08:59:32.818Z","seq":8,"component":"browser-library","event_kind":"grpc","action":"newPage","status":"succeeded"}
+{"level":"info","time":"2026-05-26T08:59:32.822Z","seq":9,"component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"started"}
+{"level":"info","time":"2026-05-26T08:59:32.823Z","seq":10,"component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"succeeded"}
+{"level":"info","time":"2026-05-26T08:59:32.825Z","seq":11,"component":"browser-library","event_kind":"grpc","action":"closePage","status":"started"}
+{"level":"info","time":"2026-05-26T08:59:32.826Z","seq":12,"component":"browser-library","msg":"Closing page with runBeforeUnload false"}
+{"level":"info","time":"2026-05-26T08:59:32.830Z","seq":13,"component":"browser-library","event_kind":"grpc","action":"closePage","status":"succeeded"}
+{"level":"info","time":"2026-05-26T08:59:32.843Z","seq":14,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"started"}
+{"level":"info","time":"2026-05-26T08:59:32.844Z","seq":15,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"succeeded"}
+{"level":"info","time":"2026-05-26T08:59:32.848Z","seq":16,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"started"}
+{"level":"info","time":"2026-05-26T08:59:32.848Z","seq":17,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"succeeded"}
+{"level":"info","time":"2026-05-26T08:59:32.849Z","seq":18,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"started"}
+{"level":"info","time":"2026-05-26T08:59:32.849Z","seq":19,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"succeeded"}
+{"level":"info","time":"2026-05-26T08:59:32.850Z","seq":20,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"started"}
+{"level":"info","time":"2026-05-26T08:59:32.850Z","seq":21,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"succeeded"}
+{"level":"info","time":"2026-05-26T08:59:32.852Z","seq":22,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","msg":"Changed active context: context=3338453f-e89b-4747-afd9-a2e2559be525"}
+{"level":"info","time":"2026-05-26T08:59:32.853Z","seq":23,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","event_kind":"grpc","action":"closeContext","status":"started"}
+{"level":"info","time":"2026-05-26T08:59:32.857Z","seq":24,"suite_id":"s1-s1-s1","suite_name":"01 First demo.Tests.Todos","component":"browser-library","event_kind":"grpc","action":"closeContext","status":"succeeded"}
+{"level":"info","time":"2026-05-26T08:59:32.867Z","seq":25,"component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"started"}
+{"level":"info","time":"2026-05-26T08:59:32.867Z","seq":26,"component":"browser-library","event_kind":"grpc","action":"getBrowserCatalog","status":"succeeded"}
